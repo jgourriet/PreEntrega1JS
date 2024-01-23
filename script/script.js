@@ -8,13 +8,13 @@ let nombre = prompt("Ingrese su Nombre").toUpperCase();
 let apellido = prompt("Ingrese su Apellido").toUpperCase();
 let correo = prompt("Ingrese su Dirección de Correo Electrónico").toUpperCase();
 
-let dolarCompra = 385;
-let euroCompra = 384;
-let realCompra = 40;
+let dolarCompra = 1385;
+let euroCompra = 1384;
+let realCompra = 340;
 
-let dolarVenta = 389;
-let euroVenta = 383;
-let realVenta = 50;
+let dolarVenta = 1389;
+let euroVenta = 1383;
+let realVenta = 350;
 
 let cantidadDivisaCompra = 0;
 
